@@ -4,6 +4,7 @@
 
 
 闯关手册：https://aicarrier.feishu.cn/wiki/QtJnweAW1iFl8LkoMKGcsUS9nld
+参考链接：https://github.com/InternLM/Tutorial
 
 
 ## 1. 关卡
